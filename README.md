@@ -3,6 +3,10 @@
 
 Questo repository contiene tutti i file necessari per pubblicare rapidamente un nuovo documento su Docs Italia. 
 
+## RIsorse trovate
+
+https://come-creare-guida.readthedocs.io/it/latest/_docs/capitolo1.html
+
 ## Contenuto
 
 - Un repository di configurazione che dovrà essere nominato `italia-conf`
